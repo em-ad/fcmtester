@@ -1,0 +1,173 @@
+{
+  "project_info": {
+    "project_number": "345954711808",
+    "firebase_url": "https://vasl-2c1a3.firebaseio.com",
+    "project_id": "vasl-2c1a3",
+    "storage_bucket": "vasl-2c1a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345954711808:android:297756814c94203d479be5",
+        "android_client_info": {
+          "package_name": "com.emad.fcmtester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345954711808-6istrj328asb91st3ppb8vkslmkq7oi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB28rso8upravXCM75q2Z5JfxAsWBrPNvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345954711808-1gc7pvtl61028keouchnivcsk4qgnggh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "345954711808-v943270fv0akjn0k903gslg2ip46qjii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ir.vasl.vaslTime"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345954711808:android:81b01f2ff4a6b615",
+        "android_client_info": {
+          "package_name": "ir.vasl.alquran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345954711808-6istrj328asb91st3ppb8vkslmkq7oi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB28rso8upravXCM75q2Z5JfxAsWBrPNvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345954711808-1gc7pvtl61028keouchnivcsk4qgnggh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "345954711808-v943270fv0akjn0k903gslg2ip46qjii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ir.vasl.vaslTime"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7644274629964620~2105448385"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345954711808:android:812c1d73ca85616c",
+        "android_client_info": {
+          "package_name": "ir.vasl.tartil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345954711808-6istrj328asb91st3ppb8vkslmkq7oi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB28rso8upravXCM75q2Z5JfxAsWBrPNvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345954711808-1gc7pvtl61028keouchnivcsk4qgnggh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "345954711808-v943270fv0akjn0k903gslg2ip46qjii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ir.vasl.vaslTime"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345954711808:android:65c12a08d7e2c11d",
+        "android_client_info": {
+          "package_name": "ir.vasl.vasltime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345954711808-envdeq1s58n2b6mrau49md6s6qv1fbev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.vasl.vasltime",
+            "certificate_hash": "0beb68ec8ab0f195de1d8c6f4aef8a491ea4bf29"
+          }
+        },
+        {
+          "client_id": "345954711808-nb2rjtb2gbd08asa3dotgubfr2gtn2pl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.vasl.vasltime",
+            "certificate_hash": "b57b2182d9e54a6980895b121aa4e5141fc62ebc"
+          }
+        },
+        {
+          "client_id": "345954711808-6istrj328asb91st3ppb8vkslmkq7oi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB28rso8upravXCM75q2Z5JfxAsWBrPNvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345954711808-1gc7pvtl61028keouchnivcsk4qgnggh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "345954711808-v943270fv0akjn0k903gslg2ip46qjii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ir.vasl.vaslTime"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7644274629964620~1365493395"
+    }
+  ],
+  "configuration_version": "1"
+}
