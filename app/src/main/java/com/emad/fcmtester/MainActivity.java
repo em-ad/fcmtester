@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.emad.fcmtester.firebase.AndroidUtils;
 import com.emad.fcmtester.firebase.Constants;
@@ -23,8 +24,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        if(getIntent().getExtras() != null && getIntent().hasExtra("FCM"))
+        if(getIntent().getExtras() != null && getIntent().hasExtra("FCM")) {
             ((TextView) findViewById(R.id.tv_token)).setText(((String) getIntent().getExtras().get("FCM")));
+            Toast.makeText(this, "NEW NOTIFICATION RECEIVED", Toast.LENGTH_SHORT).show();
+        }
         findViewById(R.id.tv_get_token).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
